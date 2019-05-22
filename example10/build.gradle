@@ -5,7 +5,7 @@ android {
 
 
     defaultConfig {
-        applicationId "com.example.example04"
+        applicationId "com.example.example10"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
@@ -20,10 +20,6 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
-    }
-    compileOptions {
-        sourceCompatibility = '1.8'
-        targetCompatibility = '1.8'
     }
 
 }
