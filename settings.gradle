@@ -1,1 +1,1 @@
-include ':app', ':example09', ':example08', ':example03', ':example04', ':example10', ':example12'
+include ':app', ':example09', ':example08', ':example03', ':example04', ':example10', ':example12', ':experiment_01', ':experiment_02', ':experiment_03', ':experiment_04'

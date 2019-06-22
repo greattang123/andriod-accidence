@@ -11,4 +11,6 @@ public class News {
         this.title = title;
         this.subtitle = subtitle;
     }
+
+
 }

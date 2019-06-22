@@ -1,9 +1,7 @@
-package com.example.example12.entity;
-
+package com.example.experiment_02.entity;
 
 public class User {
-    private String name;
-
+    public String name;
     public User(String name) {
         this.name = name;
     }

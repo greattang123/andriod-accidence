@@ -8,4 +8,6 @@ https://developer.android.google.cn/topic/libraries/data-binding
 
 **基本实现，基于mainActivity**
 2.创建实体类
-3.创建自定义viewmodel类
+3.创建自定义viewModel类
+4.声明页面数据绑定/生命周期绑定的MutableLiveData类型数据
+5.创建修改方法，在子线程中修改数据
